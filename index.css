@@ -46,7 +46,7 @@ transition: all 0.3s  linear;
     left:65px;
     color:white;
     font-size:30px;
-    font-weight:700px; 
+    font-weight:700; 
 }
 .btn_two i{
     position:absolute;
